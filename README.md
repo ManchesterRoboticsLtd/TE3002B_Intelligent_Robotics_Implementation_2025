@@ -55,7 +55,7 @@ General requirements. Please be aware that a set of requirements especific for e
 * Follow the instructions for your OS.
 
 ## Puzzlebot Jetson Image
-
+* Install [Balena Etcher](https://etcher.balena.io/) to format and upload the following image to the micro SD card.
 * [Jetson image option 1](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EVMUSVxzaepInxdKvzXnhpQBlhEpad4ZZDCQylmIlI3PlQ?e=5eqEzd) 
 * [Jetson image option 2](https://www.dropbox.com/scl/fi/2ccqhr9g0u5rj15ysr93r/jetson_2gb_ubuntu20.zip?rlkey=5iq4ebmrf529t5t2jztprsvhp&dl=0)
 
