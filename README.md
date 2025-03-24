@@ -43,7 +43,21 @@ General requirements. Please be aware that a set of requirements especific for e
 * Knowledge of Windows. 
 * Basic knowledge of Ubuntu (recommended).
 * Basic understanding of robotics (recommended).
-* Access to a Puzzlebot Jetson Edition. 
+* Access to a Puzzlebot Jetson Edition.
+
+## Puzzlebot Firmware
+
+*Update the firmware of the hackerboard in the following link
+
+* [Puzzleware](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/EuisZe1eG5xKvGpsFljJwUoBcYvHmaIm8q2_aM8XN5ETqw?e=p7kvBT)
+
+* Download the zip file.
+* Follow the instructions for your OS.
+
+## Puzzlebot Jetson Image
+
+* [Jetson image option 1](https://manchesterrobotics-my.sharepoint.com/:u:/g/personal/mario_mtz_manchester-robotics_com/EVMUSVxzaepInxdKvzXnhpQBlhEpad4ZZDCQylmIlI3PlQ?e=5eqEzd) 
+* [Jetson image option 2](https://www.dropbox.com/scl/fi/2ccqhr9g0u5rj15ysr93r/jetson_2gb_ubuntu20.zip?rlkey=5iq4ebmrf529t5t2jztprsvhp&dl=0)
 
 ## Weekly Sessions
 
