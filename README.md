@@ -11,6 +11,7 @@
 </picture>
 
 ---
+---
 # TE3002B Intelligent Robotics Implementation
 
   ## Introduction
@@ -23,18 +24,21 @@
    
 ## General Information
 * Duration: 10 Weeks
-* Classes: Monday and Thursday  (1 – 2 PM)
+* Classes: Thursday  (1 – 3 PM)
 * Starts: 27 March.
-* Ends: 16 June
-* ZOOM Link Classes: https://itesm.zoom.us/j/4779422764
+* ZOOM Link Classes: 
+  - https://itesm.zoom.us/j/82276178487?pwd=qc6KexTmQlcCcEJw8C2hLUfWFFNlR5.1 
+  -  Meeting ID: 822 7617 8487
+  - Passcode: MCR2
 
 ## Live Sessions (Recordings)
-   [Live Sessions](https://drive.google.com/drive/folders/1NWvrSf4w28JDp8xeO4oxBD9Zs0JKhySV?usp=sharing)
-     
+   [Live Sessions](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/EhWffaOxGqhHg0oe-Ji-c2sBxt6uPXCrF18v_ddiw35M6Q?e=Pkycu8)
+
+
 ## General Requirements
 General requirements. Please be aware that a set of requirements especific for each session will be shown in each session subsection (Some items may be repeated).
 * Computer with access to Zoom (online classes).
-* Computer with Ubuntu 18.04 and ROS Melodic.
+* Computer with Ubuntu 22.04 and ROS2 Humble.
 * Knowledge of ROS.
 * Knowledge of Windows. 
 * Basic knowledge of Ubuntu (recommended).
@@ -43,66 +47,48 @@ General requirements. Please be aware that a set of requirements especific for e
 
 ## Weekly Sessions
 
-
-
 ### Week 1: (Mobile Robots – Fundamentals)
-  This week the student will learn to assemble and use the Puzzlebot.
+  This week the student will learn to basics of mobile robotics.
   #### Session 1:
-  * Robot assembly (Professors in Campus)
-  * ROS Installation (Professors in Campus)
-  * Ubuntu Installation (Professors in Campus)
+  * Introduction to mobile robotics.
+  * Puzzlebot
+  * Robot assembly
+  * Image installation
+  * Hackerboard firmware
 
-  #### Session 2:
-  * Robot assembly (Professors in Campus)
   
   **Mini challenge:** 
-  * Mini challenge: ROS-Puzzlebot Joystick Activity (Professors in Campus) Drive the Puzzlebot using the joystick paclage in ROS.
-  
-  **Requirements:** Computer with access to Zoom, Ubuntu 18.04 and ROS Melodic Installed (Full installation), Puzzlebot Jetson Edition.
-  
-
+  * Mini challenge: ROS-Puzzlebot Joystick Activity (Professors in Campus) Drive the Puzzlebot using the joystick package in ROS.
+ 
 
 ### Week 2: (Open Loop Control)  
   This week will introduce some basics of open loop control for mobile robotics.
-  #### Session 1:
+  #### Session:
   * Robot Control:
     - Open Loop Control of the Puzzlebot (Theory/Activity)
-
-  #### Session 2:
-  * Q&A
 
   **Mini challenge:**: 
   * Mini challenge: Multi point navigation with open Loop control. 
 
-  **Requirements:** Requirements of Session 1.
-
-
 
 ### Week 3: Closed Loop Control
   This week will be dedicated to the closed loop control in robotics.
-  #### Session 1:
+  #### Session:
    * Localisation: odometry (Video)
    * Closed Loop Control (Video)
    * Point to point navigation. (Video)
   
-  #### Session 2:
-   * Q&A Session.
-
   **Mini challenge:**: 
    * Mini challenge: Multiple point navigation.  
-
-  **Requirements:** Requirements of Session 1.
   
 
 ### Week 4: Open CV
 This week will be dedicated to the usage of OpenCV for robotics.
-  #### Session 1:
+  #### Session:
    * OpenCV introduction and outline
    * Interfacing with camera. Image pre and postprocessing 
    * Image identification and recognition 
 
-  #### Session 2:
-   * Q&A Session.
 
   **Half term challenge:**: 
    * Half Term Challenge: Multiple point navigation with image identification.
@@ -112,29 +98,17 @@ This week will be dedicated to the usage of OpenCV for robotics.
 
 
 ### Week 5: Halfterm Challenge
-  Halfterm challenge, Q&A Week
-  #### Session 1:
-  * Q&A Session.
+  Halfterm challenge
 
-  #### Session 2:
-  * Q&A Session.
-  
-  **Requirements:** Requirements of Session 1.
-  
   **Half term challenge:**: 
   * Half Term Challenge: Multiple point navigation with image identification.
   
-  
-
 
 ### Week 6: Line Following
 This week the algorithms for line following will be teached.
-  #### Session 1:
+  #### Session:
   * Open CV: Line Following (Video)
   * Line Following Activity
-
-  #### Session 2:
-  * Q&A Session.
   
   **Requirements:** Requirements of Session 1.
   
@@ -144,15 +118,9 @@ This week the algorithms for line following will be teached.
 
 ### Week 7: Neural Networks
 This week is dedicated to the implementation of Neural Networks for robotics.
-  #### Session 1:
+  #### Session:
   * Introduction to neural networks
   * Activity 1: Deploy a CNN into a ROS to perform image classification.
-
-  #### Session 2:
-  * Traffic sign detection vs Traffic sign classification.
-  * Activity 2: Test one of the prebuild AI solutions in the jetson Nano and implement it In a ROS node.
-  * Activity 3: Deploy the sign detection model in ROS.
-  * AI in edge devices, model optimisation for Jetson Nano.
 
   **Requirements:** Requirements of Session 1.
   
